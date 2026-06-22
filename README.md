@@ -1,47 +1,12 @@
-# SOC Investigation Portfolio
+# [Joeben Buena] — SOC Investigation Portfolio
 
-> **This repo is a template provided by the [SOC Simulation Project](https://www.skool.com/socsim/about).**
-> 
-> **To use it:** fork this repo to your own GitHub, remove this intro section, and fill in the profile below. Then start dropping your investigation reports in as you complete them.
-
----
-
-### How This Works
-
-Each investigation you complete in the SOC Simulation lab gets its own report file — either the Markdown template (good for GitHub rendering) or the Word doc (good for filling in, converting to PDF, and attaching). Drop them into the relevant folder, update the index table below, and your portfolio builds itself over time.
-
-```
-soc-investigations/
-├── README.md
-├── alerts/
-│   ├── TEMPLATE.md
-│   └── [your completed alert investigations]
-└── bec/
-    ├── TEMPLATE.md
-    └── [your completed BEC investigations]
-```
-
-When someone visits your repo, this README is the first thing they see — so treat the section below as your cover page. Keep it honest and specific. A hiring manager who reads it should know exactly who you are, what you've worked on, and what you're aiming for.
-
----
----
-
-<!-- #################################################################### -->
-<!-- EVERYTHING ABOVE THIS LINE CAN BE DELETED ONCE YOU FORK THIS REPO    -->
-<!-- #################################################################### -->
-
----
-
-# [Your Name] — SOC Investigation Portfolio
-
-**`[City, Country]`** &nbsp;|&nbsp; **`[LinkedIn URL]`** &nbsp;|&nbsp; **`[Email (optional)]`**
+**`[Melbourne, Australia]`** &nbsp;|&nbsp; **`[[LinkedIn URL](https://www.linkedin.com/in/jbbuena)]`** &nbsp;|&nbsp; **`[Email (optional)]`**
 
 ---
 
 ## About Me
 
-<!-- 2-3 sentences. Who are you, where are you coming from, and what are you working toward?
-     Be direct — this isn't a cover letter, it's a quick orientation for whoever is reading. -->
+I'm a recent Cyber Security graduate (Bachelor's, Victoria University) transitioning into an entry-level SOC Analyst role. This repository documents the practical skills I'm building to close the gap between academic theory and operational defense work. This portfolio exists to demonstrate hands-on capability and document my learning process transparently as I build toward that first role.
 
 ---
 
