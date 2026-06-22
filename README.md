@@ -1,6 +1,6 @@
 # [Joeben Buena] — SOC Investigation Portfolio
 
-**`[Melbourne, Australia]`** &nbsp;|&nbsp; **`[[LinkedIn URL](https://www.linkedin.com/in/jbbuena)]`** &nbsp;|&nbsp; **`[Email (optional)]`**
+**`[Melbourne, Australia]`** &nbsp;|&nbsp; **`[https://www.linkedin.com/in/jbbuena]`** &nbsp;|&nbsp; **``**
 
 ---
 
